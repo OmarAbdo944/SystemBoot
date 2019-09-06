@@ -324,8 +324,6 @@ client.on('message', msg => {
        $invites | لمعرفة عدد انفايتاتك
        $new | لإنشاء تكت
        $giveaway  |  لإعداد قيفاواي
-       By : <@611750297009913870> + <@584135638744301599>
-       Server Help : https://discord.gg/NsGzcQK
        ** `)
    message.author.sendEmbed(embed)
    
